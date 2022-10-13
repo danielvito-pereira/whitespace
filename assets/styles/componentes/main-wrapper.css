@@ -5,10 +5,17 @@
   background-color: #043873;
   padding: 16px 220px;
 
-  position: absolute;
-
   width: 1920px;
   height: 92px;
   left: 0px;
   top: 0px;
+}
+
+.main-header nav a {
+  padding:0;
+  gap: 60;
+  color: #fff;
+
+  width: 988.5px;
+  height: 60px;
 }
