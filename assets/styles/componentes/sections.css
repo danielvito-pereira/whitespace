@@ -1,0 +1,38 @@
+.main-banner {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  background-color: var(--primary-color);
+  width: 100vw;
+  height: 829px;
+  left: 0px;
+  top: 92px;
+  margin:auto;
+}
+
+.element {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  max-width: 100vw;
+  isolation: isolate;
+}
+
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px;
+  gap: 60px;
+  color: var(--white);
+  width: 656px;
+  height: 361px;
+  z-index: 1;
+}
+
+.heading h1{
+  font-size:64px;
+  weight: 700;
+}

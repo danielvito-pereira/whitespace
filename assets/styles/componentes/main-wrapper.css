@@ -1,63 +1,51 @@
 .main-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+  box-sizing: border-box;
   background-color: var(--primary-color);
-  padding: 1.6rem 8rem;
-  width: 100vw;
-  height:  5rem;
-  left: 0px;
-  top: 0px;
+  padding: 10px 20px;
 }
- .wrapper {
+.main-header nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  width: min(112rem, 100%);
-}
-.menu {
-  text-align: center;
-  width: 60%;
+  gap:2rem;
 }
 
-.menu ul:nth-child(1) {
-  display: flex;
-  align-items: center;
-  gap: 3rem;
-}
-.menu ul li {
-  list-style: none;
-}
-.menu ul li a {
+ a {
   text-decoration: none;
   color: #fff;
 }
-.vector {
-  padding-left: 0.9rem;
-}
-.menu a.button {
+
+.button {
   display: flex;
   justify-content:center;
   align-items:center;
-  border: 1px solid var(--);
   line-height: 1.8rem;
   border-radius:8px;
 
 }
 
-.menu a.button.-btn1{
+.button.-btn1{
   padding: 1rem 2.5rem;
   background-color: var(--button2);
   color: var(--primary-color);
 }
 
-.menu a.button.-btn2{
+.button.-btn2{
   padding: 1rem 2rem;
   background-color: var( --blue-2);
   color: var(--white);
 
 }
 
-.menu a.button.-btn2 img {
+.button.-btn2 img {
   padding-left: 0.6rem;
+}
+
+.button.-btn1:hover{
+  box-shadow: inset 0px 0px 10px var(--primary-color);
+}
+.button.-btn2:hover{
+  box-shadow: inset 0px 0px 10px white;
 }
