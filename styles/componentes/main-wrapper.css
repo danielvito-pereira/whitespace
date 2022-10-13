@@ -1,0 +1,14 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #043873;
+  padding: 16px 220px;
+
+  position: absolute;
+
+  width: 1920px;
+  height: 92px;
+  left: 0px;
+  top: 0px;
+}
