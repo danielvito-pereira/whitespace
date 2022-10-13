@@ -1,0 +1,16 @@
+:root {
+  --white: #fff;
+  --primary-color: #043873;
+  --blue-2:#4F9CF9;
+  --paragraph: hsl(210, 9%, 31%);
+  --button2: #FFE492;
+}
+
+section{
+  padding-block: 10rem;
+}
+.wrapper {
+  width: min(50rem, 100%); /*ele vai pegar o menor valor segundo o menor valor no momento */
+  margin-inline:auto;
+  padding-inline: 2.4rem;
+}
