@@ -49,3 +49,12 @@
 .button.-btn2:hover{
   box-shadow: inset 0px 0px 10px white;
 }
+.button.-btn3:hover{
+  box-shadow: inset 0px 0px 10px #FFE492;
+}
+.button.-btn3{
+  padding: 1rem 2rem;
+  background: #FFFFFF;
+  border: 1px solid #FFE492;
+
+}
