@@ -5,7 +5,9 @@
   box-sizing: border-box;
   background-color: var(--primary-color);
   padding: 10px 20px;
+
 }
+
 .main-header nav {
   display: flex;
   align-items: center;
