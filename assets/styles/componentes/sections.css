@@ -125,13 +125,13 @@
 .customise.-central {
     flex-direction: column;
     justify-content:space-around;
-    background-image:url(/assets/img/BACKGROUND.png);
+    background-image:url(./assets/img/BACKGROUND.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-position-y: 65%;
 }
 .customise.-element {
-  background-image:url(/assets/img/Element2.png);
+  background-image:url(./assets/img/Element2.png);
   background-repeat: no-repeat;
   background-position: center;
   gap: 100px;
