@@ -60,3 +60,12 @@
   border: 1px solid #FFE492;
 
 }
+
+.back_line{
+  background-image:url(/assets/img/Element.png);
+  background-repeat: no-repeat;
+  background-position:right bottom;
+
+
+
+}
