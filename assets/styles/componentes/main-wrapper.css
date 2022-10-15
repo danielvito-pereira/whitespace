@@ -50,6 +50,10 @@
 }
 .button.-btn2:hover{
   box-shadow: inset 0px 0px 10px white;
+  
+}
+.button.-btn2 img:hover{
+  display:none;
 }
 .button.-btn3:hover{
   box-shadow: inset 0px 0px 10px #FFE492;
