@@ -8,7 +8,7 @@
   left: 0px;
   top: 92px;
   margin:auto;
-  background-image:url(/assets/img/Element2.png);
+  background-image:url(../../img/Element2.png);
   background-repeat: no-repeat;
 }
 
@@ -76,7 +76,7 @@
   width: 100%;
   margin:auto;
   gap: 100px;
-  background-image:url(./assets/img/GroupBACK.png);
+  background-image:url(../../img/GroupBACK.png);
   background-repeat: no-repeat;
   background-position: left;
   background-position-y: 25%;
@@ -125,13 +125,13 @@
 .customise.-central {
     flex-direction: column;
     justify-content:space-around;
-    background-image:url(./assets/img/BACKGROUND.png);
+    background-image:url(../../img/BACKGROUND.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-position-y: 65%;
 }
 .customise.-element {
-  background-image:url(./assets/img/Element2.png);
+  background-image:url(../../img/Element2.png);
   background-repeat: no-repeat;
   background-position: center;
   gap: 100px;
