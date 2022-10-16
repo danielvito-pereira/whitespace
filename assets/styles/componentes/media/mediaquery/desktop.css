@@ -1,0 +1,73 @@
+@media (max-width:1400px) {
+  .main-header {
+    justify-content: space-between;
+  }
+  
+  .element {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    max-width: 98%;
+  }
+  .content {
+    width: 98%;
+  }
+  .customise {
+
+    width: 100%;
+
+    padding: 30px;
+
+  }
+  .pricing {
+    width: 100%;
+  
+    box-sizing: border-box;
+  }
+  .price_list {
+ 
+    width: 100%;
+
+
+  }
+  .price_board {
+    width: 45%;
+    height: 90%;
+
+  }
+
+  .price_board.-price {
+    width: 45%;
+    height: 80%;
+  }
+
+  .testinominal {
+    width: 100%;
+    box-sizing: border-box;
+  }
+ .content {
+    justify-content:space-between;
+    align-items:center;
+ }
+  .client {
+    width: 30%;
+    padding: 60px 20px;
+  }
+  
+  .comment {
+    width: 90%;
+    padding: 0px 0px 10px;
+    border-bottom: 1px solid #212529;
+  }
+
+  .footer {
+    width: 100%;
+  }
+
+  .cont{
+    justify-content:space-between;
+  }
+
+
+
+}
