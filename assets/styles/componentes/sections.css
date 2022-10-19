@@ -1,3 +1,5 @@
+/*main-banner*/
+
 .main-banner {
   display: flex;
   align-items: center;
@@ -11,7 +13,7 @@
   background-image:url(../../img/Element2.png);
   background-repeat: no-repeat;
 }
-/*main-banner*/
+
 .element {
   display: flex;
   align-items: center;
@@ -193,6 +195,15 @@
 
 }
 
+
+.pricing .pp{
+  
+  color: black;
+  
+}
+
+
+
 .heading{
   display: flex;
   flex-direction: column;
@@ -351,7 +362,9 @@
   border-radius: 10px;
  
 }
-
+.client.-mobile {
+  display: none;
+}
 .client.-blue {
   background: var(--blue-2);
 }

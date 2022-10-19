@@ -71,3 +71,639 @@
 
 
 }
+
+
+@media (max-width:1152px){
+
+
+  .main-banner {
+  
+    width: 100%;
+    height: 429px;
+    
+  }
+  
+
+
+  nav #menu{
+    display: none;
+
+  }
+
+
+  span#burger  {
+    background-color: var(--primary-color);
+    display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+
+  }
+  
+  span#burger:hover{
+
+    color: var(--white);
+  }
+  nav #menu{
+    display: none;
+  }
+
+
+  .headline{
+ 
+    gap: 30px;
+   
+  }
+ 
+  .headline h1{
+    font-size:2.5rem;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  
+  .headline.-lest .title {
+    font-size:5rem;
+  }
+
+  .title {
+    font-size:2.5rem;
+
+  }
+
+  .title.-white {
+    font-size:64px;
+    weight: 700;
+    color: var(--white);
+  }
+
+  .image-container.-extension {
+    max-width: 47%;
+    max-height: 44%;
+ 
+  }
+
+
+
+
+  .pricing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    gap: 10px;
+    
+  }
+
+
+
+
+  .price_list {
+    width: 100%;
+  
+    box-sizing: border-box;
+  }
+
+
+  .price_board {
+    width: 25%;
+    height: 90%;
+  
+    padding: 8px;
+  }
+
+
+  .price_board.-price {
+    padding: 8px;
+    gap: 10px;
+    width: 25%;
+    height: 80%;
+
+}
+  .text_block {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 15px;
+  }
+  .text_block {
+
+    padding: 0px;
+    gap: 15px;
+    width: 100%;
+}
+  .bullet_point .point {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+  }
+
+
+  .customise {
+    padding: 0px;
+  }
+
+  .customise.-blue {
+    width: 100%;
+    height: 25rem;
+   
+    text-align:center;
+  
+  }
+
+  .customise.-white.-column {
+    width: 100%;
+    height: 20rem;
+   
+    text-align:center;
+  
+  }
+
+  .customise.-central {
+    text-align:left;
+    align-items: flex-start;
+    padding:12px;
+  }
+  .customise.-central .central .Paragraph{
+    padding:12px;
+    text-align:center;
+  }
+
+
+  .customise.-blue.-element {
+    width: 100%;
+    height: 35rem;
+  }
+  .customise.-blue.-element {
+    gap: 20px;
+  }
+  .customise.-blue.-element figure{
+    width: 500px;
+    height: 427.11px;
+    padding: 1rem;
+  }
+
+  .customise.-blue.-element figure img {
+    width: 100%;
+    height: 100%;
+  }
+  .headline.-cust {
+    max-width: 45%;
+    text-align: left;
+  }
+  .wrapper-card figure img {
+    width: 70%
+  }
+
+
+
+  .testinominal {
+    padding:0px;
+  }
+ .content {
+    justify-content:space-between;
+    align-items:center;
+ 
+ }
+  .client {
+    width: 30%;
+    padding: 20px 5px;
+    height: 27rem;
+  }
+  .testinominal .content {
+    gap: 0px;
+}
+  .comment {
+    width: 90%;
+    padding: 0px 0px 10px;
+  
+    gap: 0px;
+  }
+
+  .avatar {
+    width: 75px;
+    height: 75px;
+  }
+  .name-box {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: left;
+    padding: 0px;
+    gap: 22px;
+    width: 100%;
+}
+
+.name-box .name {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 15px;
+  
+  width: 174.33px;
+  height: 147px;
+
+}
+.name-box .name h1 {
+  font-size: 20px;
+  line-height: 16px;
+}
+
+  .name-box .name p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
+
+
+
+  .freetrial {
+  padding: 0px;
+}
+
+
+
+  .footer {
+    width: 100%;
+    padding: 0;
+}
+
+  .cont{
+    justify-content:space-between;
+
+    gap: 10px;
+    width: 100%;
+}
+
+  .cont .info{
+    width: 100%;
+    padding: 0px;
+    gap: 20px;
+  }
+
+
+
+  .logo_description {
+    
+    padding: 5px;
+    gap: 15px;
+    width: 30%;
+    
+
+}
+
+.logo_description .logo {
+
+  gap: 5px;
+  font-size: 11px;
+}
+  .logo_description p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+  }
+
+
+  .inf {
+
+    padding: 0px;
+    gap: 15px;
+  
+}
+
+.inf h1{
+  font-size:20px;
+ 
+}
+
+.try-btn {
+  gap: 15px;
+
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 10px;
+  padding: 10px;
+  border-top: 1px solid #2E4E73;
+}
+
+
+
+}
+
+@media (max-width:768px){
+  .main-banner {
+    gap: 100px;
+    width: 100%;
+    height: 50%;
+}
+
+  .element {
+    flex-direction: column;
+    gap: 100px;
+  }
+  .main-banner .headline {
+    max-width: 100%;
+    align-items:center;
+    text-align: center;
+    justify-content:center;
+
+}
+  .headline h1 {
+    text-align: center;
+  }
+
+  .image-container {
+    max-width: 80%;
+    margin-bottom: 100px;
+  }
+
+
+  .content{
+    flex-direction: column;
+
+  }
+
+  .-content{
+    max-width: 90%;
+    align-items:center;
+    text-align: center;
+    justify-content:center;
+  }
+  .-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .customise.-blue {
+      width: 100%;
+      height: 50%;
+      padding: 100px 32px;
+      gap: 60px;
+  }
+  .-lets{
+    max-width: 90%;
+    align-items:center;
+    text-align: center;
+    justify-content:center;
+  }
+  .image-container.-extension {
+    max-width: 80%;
+    max-height: 50%;
+  }
+
+  
+  .customise.-white {
+    width: 100%;
+    height: 50%;
+    padding: 100px 32px;
+    gap: 60px;
+    
+}
+
+
+
+
+
+
+
+
+
+.customise.-central {
+  align-items: left;
+
+
+}
+
+ .central {
+    align-items: left;
+    justify-content: left;
+    text-align:left;
+ }
+ .title {
+    padding:0;
+  }
+
+  .customise.-central .central .Paragraph {
+    padding: 12px;
+    text-align: left;
+  }
+
+
+
+  .customise.-white.-column {
+  
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+  }
+  .wrapper-card {
+    flex-direction: column;
+    gap: 100px;
+    width: 100%;
+   
+  }
+
+  .customise.-blue.-element {
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+    padding: 140px 20px;
+    gap: 100px;
+  }
+
+.headline.-cust {
+  max-width: 70%;
+  text-align: left;
+  text-align:center;
+  }
+
+
+
+
+
+
+  .pricing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    gap: 10px;
+
+  }
+
+
+
+
+  .price_list {
+
+  }
+
+
+  .price_board {
+   
+    padding: 80px 44px;
+    gap: 5px;
+    
+    width: 472.33px;
+    height: 711px;
+
+
+  }
+
+
+  .price_board.-price {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 44px;
+    gap: 25px;
+    
+    width: 472.33px;
+    height: 631px;
+
+}
+
+
+
+
+
+
+.testinominal .content{
+  background-color:red;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 32px;
+  
+
+  height: 630px;
+}
+
+.client.-mobile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  gap: 49px;
+  width: 341.33px;
+  height: 430px;
+}
+.client.-mobile .comment {
+  padding: 0px;
+  gap: 35px;
+
+  width: 301.33px;
+  height: 285px;
+  border-bottom: none;
+  
+}
+
+
+.client.-mobile .name-box {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 301.33px;
+  height: 56px;
+}
+
+
+.client.-mobile .name-box .name{
+  align-items: flex-start;
+  padding: 0px;
+  gap: 4px;
+
+  width: 193px;
+  height: 56px;
+
+}
+.client {
+display:none;
+
+}
+  
+  .freetrial {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 140px 20px 32px;
+    gap: 200px;
+
+
+  }
+
+
+  .footer {
+    width: 100%;
+    padding: 10px;
+}
+
+  .info {
+    width: 100%;
+    flex-direction: column;
+
+    padding: 0px;
+    gap: 100px;
+    align-items: flex-start;
+    padding: 0px;
+    height: 1254px;
+
+
+  }
+
+  .logo_description {
+    width: 100%;
+    gap: 24px;
+
+
+    height: 146px;
+  
+  }
+
+
+  .btns {
+    flex-direction: column;
+    justify-content:space-between;
+    align-items:flex-start;
+    padding: 0px;
+    gap: 20px;
+
+
+  }
+
+  .terms {
+    justify-content:left;
+    align-items: left;
+    padding: 0px 0px 20px;
+    gap: 10px;
+    margin-top:10px;
+    width: 100%;
+    height: 40px;
+
+  }
+
+
+
+
+
+
+  .testinominal  .elements {
+
+    transform: translateX(-200px);
+  }
+}
