@@ -20,7 +20,7 @@ nav #menu{
   transform: translateX(0px);
   gap: 32px;
 
-}
+}/*
 .elements{
   animation-name: rotate;
   animation-duration: 8s;
@@ -97,7 +97,7 @@ nav #menu{
 
 
 
-
+*/
 
 .items{
   overflow: hidden;
